@@ -1,3 +1,5 @@
+https://wiki.postgresql.org/wiki/PostgreSQL_For_Development_With_Vagrant
+
 ### What is it?
 
 A Vagrant configuration that starts up a PostgreSQL database in a virtual machine for local application development.
